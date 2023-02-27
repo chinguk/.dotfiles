@@ -1,0 +1,9 @@
+Chi Nguyen
+I created a file using cim. Then I used the VIM text editor and inserted some configurations. I renamed and copied the file to the desktop directory. I was confused by what it meant to insert and I found that I just had to press "i".
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
